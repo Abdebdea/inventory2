@@ -42,4 +42,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: abdegenisis/imagesrepository:latest
+        tags: abdegenisis/imagerepository:latest
